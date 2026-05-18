@@ -70,3 +70,5 @@ b. Visualize department-wise patient distribution.
 c. Analyze doctor-wise patient load and Calculate the average length of
 hospital stay.
 d. Apply filters for department, doctor, and date range.
+
+Part B : Power BI notes : Credits pranay kr
